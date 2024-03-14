@@ -18,4 +18,3 @@ Results:
   •	Compiled the results into a DataFrame for comparison.
   •	Analysis shows that the Polynomial Lasso Regression model achieved high accuracy on both the training and test sets. The results seem promising, indicating that the chosen model can effectively predict Bitcoin 
     prices.
-
