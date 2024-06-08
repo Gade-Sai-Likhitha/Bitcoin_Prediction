@@ -5,7 +5,7 @@ Data Preprocessing:
   •	Checked for missing values and handled them by forward filling.
   •	Visualized missing values using a heatmap.
   •	Explored the data distribution and statistics.
-Feature Scaling:
+Feature Scaling: 
   •	Scaled the features using Min-Max scaling.
 Model Selection and Training:
   •	Tried various regression models including K-Nearest Neighbors, Ridge Regression, Lasso Regression, Linear Regression, Polynomial Regression, and Support Vector Regression (with and without kernels).
